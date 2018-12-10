@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">speech to text android</string>
+    <string name="txt_speakup">Ngomong dong!</string>
+    <string name="txt_speak_prompt">Ngomong Sesuatu dong!</string>
+    <string name="txt_not_support">Input tidak disupport!</string>
+    <string name="txt_change_language">ubah bahasa</string>
+    <string name="pkg_google_quick_search">com.google.android.googlequicksearchbox</string>
+    <string name="cls_voice_search_pref">com.google.android.apps.gsa.velvet.ui.settings.VoiceSearchPreferences</string>
+</resources>
